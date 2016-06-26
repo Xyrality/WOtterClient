@@ -1,0 +1,6 @@
+framework module Pods_WOtterClient {
+  umbrella header "Pods-WOtterClient-umbrella.h"
+
+  export *
+  module * { export * }
+}

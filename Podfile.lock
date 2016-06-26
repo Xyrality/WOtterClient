@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (3.1.5)
+  - SwaggerClient (1.0):
+    - Alamofire (~> 3.1.4)
+
+DEPENDENCIES:
+  - SwaggerClient (from `./LocalPods/SwaggerClient`)
+
+EXTERNAL SOURCES:
+  SwaggerClient:
+    :path: "./LocalPods/SwaggerClient"
+
+SPEC CHECKSUMS:
+  Alamofire: 5f730ba29fd113b7ddd71c1e65d0c630acf5d7b0
+  SwaggerClient: bcafe28a295f97850376123a75a73a4d21561b99
+
+PODFILE CHECKSUM: a00f06889c56b63331a7dcaa8a7cb2960a852e5e
+
+COCOAPODS: 1.0.0

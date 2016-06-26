@@ -1,0 +1,6 @@
+framework module Pods_WOtterClientUITests {
+  umbrella header "Pods-WOtterClientUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

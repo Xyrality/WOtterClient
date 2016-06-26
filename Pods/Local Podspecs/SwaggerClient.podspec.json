@@ -1,0 +1,22 @@
+{
+  "name": "SwaggerClient",
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "version": "1.0",
+  "source": {
+    "git": "git@github.com:swagger-api/swagger-mustache.git",
+    "tag": "v1.0.0"
+  },
+  "license": "Apache License, Version 2.0",
+  "source_files": "SwaggerClient/Classes/Swaggers/**/*.swift",
+  "dependencies": {
+    "Alamofire": [
+      "~> 3.1.4"
+    ]
+  },
+  "authors": "WOtter team",
+  "homepage": "https://github.com/Xyrality/WOtter",
+  "summary": "WOtter API client"
+}
